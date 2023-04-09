@@ -2,6 +2,6 @@
 # create the calculator function
 
 def calculator():
-    return None
+    return 42
 
 calculator()
