@@ -43,6 +43,7 @@ while True:
     input()
     print("New Game?")
     answer = input("y/n: ")
+    print()
 
     if answer == "n":
         break
