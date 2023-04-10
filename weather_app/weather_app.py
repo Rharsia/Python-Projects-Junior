@@ -40,12 +40,4 @@ while True:
         print("City not found.")
 
     
-    print()
-    print("Continue?")
-    answer = input("(y/n): ")
-    print()
-
-    if answer == "y":
-        continue
-    else:
-        break
+    input()
