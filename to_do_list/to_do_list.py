@@ -1,6 +1,15 @@
 # create the task list
 tasks = []
 
+# function to view tasks
+def view_tasks():
+    print("Task list: ")
+    order = 1
+    for task in tasks:
+        print(f"{order}) {task}")
+        order += 1
+    print()
+
 # function to add task to the list
 def add_task():
     task = input("Enter task: ")
@@ -10,22 +19,14 @@ def add_task():
 
 # create a function that deletes tasks
 def delete_task():
-    task = input("Enter task to delete: ")
+    view_tasks()
+    task = int(input("Enter task to delete (number): "))
 
-    if task in tasks:
-        tasks.remove(task)
+    if task <= len(tasks) and task >= 1:
+        tasks.remove(tasks[task - 1])
         print("Task deleted successfully.")
     else:
         print("Task not found.")
-    print()
-
-# function to view tasks
-def view_tasks():
-    print("Task list: ")
-    order = 1
-    for task in tasks:
-        print(f"{order}) {task}")
-        order += 1
     print()
     
 # function to show the menu
@@ -51,3 +52,4 @@ while True:
         break
     else:
         print("Invalid choice. Please try again.")
+    print()
