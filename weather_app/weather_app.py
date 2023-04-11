@@ -15,8 +15,6 @@ while True:
     # Create the URL for the API request
     url = f"{base_url}q={city}&appid={api_key}"
 
-    print(url)
-
     # send the API request and get the response
     response = requests.get(url)
 
@@ -40,4 +38,4 @@ while True:
         print("City not found.")
 
     
-    input()
+    print()
