@@ -5,8 +5,7 @@ print("This is a timer to turn off (sleep) the PC")
 print()
 
 # get the number of minutes from the user
-# minutes = float(input("Enter the number of minutes: "))
-minutes = 0.5
+minutes = float(input("Enter the number of minutes: "))
 
 # convert to seconds
 seconds = round(minutes * 60)
@@ -27,4 +26,4 @@ for i in range(seconds, 0, -1):
 
 print("SHUTDOWN")
 
-# os.system("rundll32.exe powrprof.dll,SetSuspendState 0,1,0")
+os.system("rundll32.exe powrprof.dll,SetSuspendState 0,1,0")
