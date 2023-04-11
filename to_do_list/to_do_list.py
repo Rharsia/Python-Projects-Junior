@@ -1,5 +1,22 @@
-# create the task list
-tasks = []
+import os
+
+# define the path to the task list file
+TO_DO_LIST_FILE = "to_do_list.txt"
+
+# load the task list from the file if it exists
+if os.path.isfile(TO_DO_LIST_FILE):
+    with open(TO_DO_LIST_FILE, "r") as f:
+        tasks = [line.strip() for line in f.readlines()]
+
+else:
+    # create task list
+    tasks = []
+
+# function to save the task list to the file
+def save_tasks():
+    with open(TO_DO_LIST_FILE, "w") as f:
+        for task in tasks:
+            f.write(task + "\n")
 
 # function to view tasks
 def view_tasks():
@@ -53,3 +70,5 @@ while True:
     else:
         print("Invalid choice. Please try again.")
     print()
+
+save_tasks()
