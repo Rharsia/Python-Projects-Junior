@@ -1,4 +1,5 @@
 import random
+import msvcrt
 
 # single dice roll
 # result = random.randint(1,6)
@@ -16,6 +17,17 @@ def dice_roll(n_dices):
     else:
         return ("No dices were rolled.")
 
+# while True:
+#     print(dice_roll(n_dices))
+#     input()
+#     if msvcrt.kbhit() and msvcrt.getch() == b"\x1b":
+#         break
+
 while True:
-    dice_roll(n_dices)    
-    input()
+    print(dice_roll(n_dices))
+    while True:
+        if msvcrt.kbhit():
+            key = ord(msvcrt.getch())
+            if key == 27:  # Escape key
+                exit()
+            break
