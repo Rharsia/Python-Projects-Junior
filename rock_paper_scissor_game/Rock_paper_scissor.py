@@ -9,14 +9,21 @@ def menu():
 def choice():
     menu()
     print()
-    choice = int(input("Enter your choice (1-3): "))
     
-    if choice == 1:
-        player = "rock"
-    elif choice == 2:
-        player = "paper"
-    elif choice == 3:
-        player = "scissor"
+    while True:
+        pchoice = int(input("Enter your choice (1-3): "))
+
+        if pchoice == 1:
+            player = "rock"
+            break
+        elif pchoice == 2:
+            player = "paper"
+            break
+        elif pchoice == 3:
+            player = "scissor"
+            break
+        else:
+            print("Invalid input, please try again.")
 
     return player
 
@@ -71,6 +78,7 @@ def game():
         
 
         print(f"Wins: {no_wins}; Losses: {no_losses}")
+        print()
 
 game()
 
