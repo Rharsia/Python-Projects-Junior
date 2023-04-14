@@ -13,7 +13,7 @@ def convert_currency(amount, from_currency, to_currency):
         # convert from USD to currency
         amount = amount / rates[from_currency]
 
-    return round(amount * rates[to_currency])
+    return round(amount * rates[to_currency],2)
 
 def get_data():
     
@@ -44,14 +44,17 @@ def get_data():
     return (amount, from_currency, to_currency)
 
 def convert():
-    data = get_data()
-    amount = data[0]
-    from_currency = data[1]
-    to_currency = data[2]
+    while True:
+        data = get_data()
+        amount = data[0]
+        from_currency = data[1]
+        to_currency = data[2]
 
-    converted_amount = convert_currency(amount, from_currency, to_currency)
+        converted_amount = convert_currency(amount, from_currency, to_currency)
 
-    print(f"{amount} {from_currency} is equal to {converted_amount} {to_currency}.")
+        print()
+        print(f"{amount} {from_currency} is equal to {converted_amount} {to_currency}.")
+        print()
 
 
 convert()
