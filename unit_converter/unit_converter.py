@@ -6,6 +6,8 @@ def user_input():
         unit_from = input("Enter units FROM which you wish to convert: ")
         try:
             unit_from = unit_from.lower()
+            if unit_from == "c" or unit_from == "k" or unit_from == "f":
+                unit_from = unit_from.upper()
             break
         except SyntaxError:
             print("Invalid input, try again.")
@@ -14,6 +16,8 @@ def user_input():
         unit_to = input("Enter units INTO which you wish to convert: ")
         try:
             unit_to = unit_to.lower()
+            if unit_to == "c" or unit_to == "k" or unit_to == "f":
+                unit_to = unit_to.upper()
             break
         except SyntaxError:
             print("Invalid input, try again.")
@@ -28,6 +32,7 @@ def user_input():
 
     return (unit_from, unit_to, amount)
 
+
 # create a unit list for everything
 lengths = ["mm", "cm", "km", "m", "km", "in", "ft", "yd", "mi", "nmi"]
 temperatures = ["C", "F", "K"]
@@ -39,7 +44,7 @@ def realm_to_convert(uin):
     unit_to = uin[1]
     if unit in lengths and unit_to in lengths:
         return "length"
-    elif unit.upper() in temperatures and unit_to in temperatures:
+    elif unit in temperatures and unit_to in temperatures:
         return "temperature"
     elif unit in weights and unit_to in weights:
         return "weight"
@@ -88,21 +93,50 @@ def weight_converter(uin):
 # uin = ("lb", "kg", 1)
 # weight_converter(uin)
 
+# temperature
+def temperature_convert(uin):
+    from_unit = uin[0]
+    to_unit = uin[1]
+    amount = uin[2]
+
+    # convert all to Celsius
+    if from_unit == "C":
+        celsius = amount
+    elif from_unit == "K":
+        celsius = amount - 273.15
+    elif from_unit == "F":
+        celsius = (amount - 32) * (5/9)
+
+    # convert celsius to to_unit
+    if to_unit == "C":
+        result = celsius
+    elif to_unit == "K":
+        result = celsius + 273.15
+    elif to_unit == "F":
+        result = (celsius * 5/9) + 32
+
+    result = round(result, 2)
+
+    answer = f"{amount} {from_unit} is equal to {result} {to_unit}."
+    return answer
+
+uin = ("C", "K", 199)
+temperature_convert(uin)
 
 def converter():
     while True:
         uin = user_input()
+
         realm = realm_to_convert(uin)
 
         if realm == "invalid":
             continue
-
-        if realm == "length":
+        elif realm == "length":
             result = length_converter(uin)
-        
-        if realm == "weight":
+        elif realm == "weight":
             result = weight_converter(uin)
-
+        elif realm == "temperature":
+            result = temperature_convert(uin)
 
         return result
 
