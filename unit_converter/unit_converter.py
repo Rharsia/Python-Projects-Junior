@@ -113,15 +113,13 @@ def temperature_convert(uin):
     elif to_unit == "K":
         result = celsius + 273.15
     elif to_unit == "F":
-        result = (celsius * 5/9) + 32
+        result = (celsius * (9/5)) + 32
 
     result = round(result, 2)
 
     answer = f"{amount} {from_unit} is equal to {result} {to_unit}."
     return answer
 
-uin = ("C", "K", 199)
-temperature_convert(uin)
 
 def converter():
     while True:
@@ -140,4 +138,6 @@ def converter():
 
         return result
 
-converter()
+while True:
+    print(converter())
+    print()
