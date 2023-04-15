@@ -60,6 +60,7 @@ def length_converter(uin):
 
     # convert from meters to to_unit
     result = meters / conversion_factors[to_unit]
+    result = round(result, 2)
 
     answer = f"{amount} {from_unit} is equal to {result} {to_unit}."
     return answer
@@ -69,16 +70,40 @@ def length_converter(uin):
 
 # weight
 def weight_converter(uin):
-    conversion_factors = {"g": 1, "mg": 0.001, "kg": 1000, "t": 1000000}
+    conversion_factors = {"g": 1, "mg": 0.001, "kg": 1000, "t": 1000000, "lb": 453.59, "oz": 28.35}
+    from_unit = uin[0]
+    to_unit = uin[1]
+    amount = uin[2]
+
+    # convert to grams
+    grams = amount * conversion_factors[from_unit]
+
+    # convert from grams to to_unit
+    result = grams / conversion_factors[to_unit]
+    result = round(result, 2)
+
+    answer = f"{amount} {from_unit} is equal to {result} {to_unit}."
+    return answer
+
+# uin = ("lb", "kg", 1)
+# weight_converter(uin)
 
 
 def converter():
-    uin = user_input()
-    realm = realm_to_convert(uin)
+    while True:
+        uin = user_input()
+        realm = realm_to_convert(uin)
 
-    if realm == "length":
-        result = length_converter()
-    
+        if realm == "invalid":
+            continue
 
+        if realm == "length":
+            result = length_converter(uin)
+        
+        if realm == "weight":
+            result = weight_converter(uin)
+
+
+        return result
 
 converter()
