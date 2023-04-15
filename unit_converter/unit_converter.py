@@ -28,6 +28,30 @@ def user_input():
 
     return (unit_from, unit_to, amount)
 
-x = user_input()
+# create a unit list for everything
+lengths = ["mm", "cm", "km", "m", "km", "in", "ft", "yd", "mi", "nm"]
+temperatures = ["C", "F", "K"]
+weights = ["g", "kg", "lb", "oz", "t"]
 
-print(x[0])
+# find out what we are converting
+def realm_to_convert(uin):
+    unit = uin[0]
+    unit_to = uin[1]
+    if unit in lengths and unit_to in lengths:
+        return "length"
+    elif unit in temperatures and unit_to in temperatures:
+        return "temperature"
+    elif unit in weights and unit_to in weights:
+        return "weight"
+    else:
+        print("Invalid units, try again.")
+        converter()
+
+
+def converter():
+    uin = user_input()
+    realm = realm_to_convert(uin)
+    
+    print(realm)
+
+converter()
