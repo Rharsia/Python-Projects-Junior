@@ -19,5 +19,17 @@ rows = []
 for row in table.find_all("tr"):
     rows.append([cell.text for cell in row.find_all("td")])
 
-print(headers)
-print(rows)
+rows.pop(0)
+
+# print(headers)
+# print(rows)
+
+from prettytable import PrettyTable
+
+table2 = PrettyTable(headers)
+
+for row in rows:
+    table2.add_row(row)
+
+print(table2)
+input()
