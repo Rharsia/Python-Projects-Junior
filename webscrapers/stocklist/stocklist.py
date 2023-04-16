@@ -22,5 +22,9 @@ table = PrettyTable(headers)
 for row in rows:
     table.add_row(row)
 
+table.del_column("Trh")
+table.del_column("Předchozí doporučení")
+table.del_column("Předchozí cílová cena")
+
 print(table)
 input()
