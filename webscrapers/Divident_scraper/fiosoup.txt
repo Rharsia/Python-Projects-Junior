@@ -1,0 +1,855 @@
+>>> soup
+<!DOCTYPE html>
+
+<html lang="cs" xml:lang="cs" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#">
+<head>
+<base href="https://www.fio.cz/"/>
+<meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+<meta content="cs" http-equiv="content-language"/>
+<title>Dividenda, rozhodný den, české akcie | Fio banka</title>
+<meta content="Analytici a makléři Fio banky pro Vás každý den monitorují situaci na burzách cenných papírů v České republice i zahraničí." name="description"/>
+<meta content="dividenda, rozhodný den, české akcie, burza" name="keywords"/>
+<!--<link rel="shortcut icon" href="/gfx/favicons/favicon.ico"/>-->
+<link href="/gfx/favicons/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
+<link href="/gfx/favicons/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
+<link href="/gfx/favicons/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180"/>
+<link href="/css/fio.css?22032023" media="screen,projection" rel="stylesheet" type="text/css">
+<link href="/css/fio-print.css" media="print" rel="stylesheet" type="text/css">
+<link href="/css/fa/all.min.css" rel="stylesheet"/>
+<!--[if lt IE 8]>
+        <link rel="stylesheet" type="text/css" href="/css/fio-msie.css" media="screen,projection,tv"/>  <![endif]-->
+<link href="./css/pickmeup.css" rel="stylesheet" type="text/css">
+<link href="./css/jquery-ui.css" rel="stylesheet" type="text/css">
+<script src="/js/lib/jquery-3.6.4.min.js" type="text/javascript"></script>
+<script src="./js/lib/cookies.js" type="text/javascript"></script>
+<script src="./js/lib/jquery-ui.js" type="text/javascript"></script>
+<script src="./js/lib/pickmeup.min.js" type="text/javascript"></script>
+<script src="./js/news.js" type="text/javascript"></script>
+<script src="/js/common.js?27032023" type="text/javascript"></script>
+<!-- Google Tag Manager -->
+<noscript>
+<iframe height="0" src="//www.googletagmanager.com/ns.html?id=GTM-PNN5KJ" style="display:none;visibility:hidden" width="0"></iframe>
+</noscript>
+<script src="/js/GTM_start.js"></script>
+<script src="/js/GTM_cs.js"></script>
+<!-- End Google Tag Manager -->
+</link></link></link></link></head>
+<body data-lng="1">
+<div id="page">
+<div id="headline">
+<div class="lang">
+<strong>Česky</strong>
+<span class="sep">|</span>
+<a href="/news/dividends?lng=2">
+                                        English
+                </a>
+</div>
+<div class="menu">
+<a href="/o-nas/kontakty">Kontakty</a>
+<span class="sep">|</span>
+<a href="/o-nas/dokumenty-ceniky/ceniky-sazebniky">Ceník</a>
+<span class="sep">|</span>
+<a href="http://fio.jobs.cz/">Kariéra</a>
+<span class="sep">|</span>
+<a href="/o-nas/napiste-nam">Napište nám</a>
+<span class="sep">|</span>
+<a href="/o-nas/faq">Časté dotazy</a>
+<span class="sep">|</span>
+<a href="/vztahy-s-investory">Vztahy s investory</a>
+<span class="sep">|</span>
+<a href="/bezpecnost"></a>
+</div>
+</div>
+<div id="headphone">
+        Infomail: <big>fio@fio.cz</big>
+</div>
+<div class="cleaner"><hr/></div>
+<div id="header">
+<div class="inner">
+<div class="logo">
+<strong>
+<a href="">
+                                                Fio banka<span> </span>
+</a>
+</strong>
+</div>
+<div class="motto">
+<div class="in">
+                                Fio banka je moderní česká banka. Poskytuje účty bez poplatků a zprostředkovává investice do cenných papírů.
+            </div>
+</div>
+<div class="search">
+<form action="/vyhledavani">
+<div>
+<span class="input"><input class="text" id="q" name="q" type="text"/></span>
+<input class="imgbutton" name="SearchB" src="./gfx/search-button.gif" type="image"/>
+</div>
+</form>
+</div>
+<div class="cleaner"><hr/></div>
+</div>
+</div>
+<div id="content">
+<div class="crumbs crumbs-noline">
+<div>
+<a href="/">Úvod</a>
+<span class="sep">&gt;</span>
+<a href="/zpravodajstvi">Zpravodajství</a>
+<span class="sep">&gt;</span>
+<strong>Dividendy</strong>
+</div>
+</div>
+<h1>Dividendy</h1>
+<div class="userText section2">
+<p>Přehled dividend a jiných výnosů z držení akcií zařazených v indexu PX pražské burzy.</p>
+</div>
+<div class="tabs tabs-i10 tabsDivi">
+<ul>
+<li class="active">
+<a class="tabLink" href="/zpravodajstvi/dividendy?tab=2023" id="tabLink-2023">
+                        2023
+                    </a>
+</li>
+<li>
+<a class="tabLink" href="/zpravodajstvi/dividendy?tab=2022" id="tabLink-2022">
+                        2022
+                    </a>
+</li>
+<li>
+<a class="tabLink" href="/zpravodajstvi/dividendy?tab=2021" id="tabLink-2021">
+                        2021
+                    </a>
+</li>
+<li>
+<a class="tabLink" href="/zpravodajstvi/dividendy?tab=2020" id="tabLink-2020">
+                        2020
+                    </a>
+</li>
+<li>
+<a class="tabLink" href="/zpravodajstvi/dividendy?tab=2019" id="tabLink-2019">
+                        2019
+                    </a>
+</li>
+<li>
+<a class="tabLink" href="/zpravodajstvi/dividendy?tab=2018" id="tabLink-2018">
+                        2018
+                    </a>
+</li>
+<li>
+<a class="tabLink" href="/zpravodajstvi/dividendy?tab=2017" id="tabLink-2017">
+                        2017
+                    </a>
+</li>
+<li>
+<a class="tabLink" href="/zpravodajstvi/dividendy?tab=2016" id="tabLink-2016">
+                        2016
+                    </a>
+</li>
+<li>
+<a class="tabLink" href="/zpravodajstvi/dividendy?tab=2015" id="tabLink-2015">
+                        2015
+                    </a>
+</li>
+<li>
+<a class="tabLink" href="/zpravodajstvi/dividendy?tab=2014" id="tabLink-2014">
+                        2014
+                    </a>
+</li>
+<li>
+<a class="tabLink" href="/zpravodajstvi/dividendy?tab=2013" id="tabLink-2013">
+                        2013
+                    </a>
+</li>
+<li>
+<a class="tabLink" href="/zpravodajstvi/dividendy?tab=2012" id="tabLink-2012">
+                        2012
+                    </a>
+</li>
+<li>
+<a class="tabLink" href="/zpravodajstvi/dividendy?tab=2011" id="tabLink-2011">
+                        2011
+                    </a>
+</li>
+<li>
+<a class="tabLink" href="/zpravodajstvi/dividendy?tab=2010" id="tabLink-2010">
+                        2010
+                    </a>
+</li>
+<li>
+<a class="tabLink" href="/zpravodajstvi/dividendy?tab=2009" id="tabLink-2009">
+                        2009
+                    </a>
+</li>
+<li>
+<a class="tabLink" href="/zpravodajstvi/dividendy?tab=2008" id="tabLink-2008">
+                        2008
+                    </a>
+</li>
+</ul>
+<div class="cleaner"><hr/></div>
+</div>
+<div class="diviTblWrap tabContent" id="tabContent-2023">
+<table class="tbl2 tbl-sazby">
+<thead>
+<tr><th class="col1">Název</th><th class="tright">Dividenda (hrubá)</th><th>Valná hromada</th><th>ex-date BCPP</th><th>ex-date RMS</th><th>Datum výplaty</th></tr>
+</thead>
+<tbody>
+<tr class="odd"><td class="col1">Philip Morris ČR</td><td class="tright">1 310,00 CZK</td><td>28.04.2023</td><td>09.05.2023</td><td>11.05.2023</td><td>12.06.2023</td></tr>
+<tr><td class="col1">VIG</td><td class="tright">1,30 EUR</td><td>26.05.2023</td><td>30.05.2023</td><td>01.06.2023</td><td>01.06.2023</td></tr>
+<tr class="odd"><td class="col1">Colt CZ Group</td><td class="tright">30,00 CZK</td><td>n/a</td><td>n/a</td><td>n/a</td><td>n/a</td></tr>
+<tr><td class="col1">Erste Group</td><td class="tright">1,90 EUR</td><td>12.05.2023</td><td>16.05.2023</td><td>18.05.2023</td><td>19.05.2023</td></tr>
+<tr class="odd"><td class="col1">Komerční banka</td><td class="tright">60,42 CZK</td><td>20.04.2023</td><td>28.04.2023</td><td>03.05.2023</td><td>22.05.2023</td></tr>
+<tr><td class="col1">Moneta Money Bank</td><td class="tright">8,00 CZK</td><td>25.04.2023</td><td>28.04.2023</td><td>03.05.2023</td><td>n/a</td></tr>
+</tbody>
+</table>
+</div>
+<div class="diviTblWrap tabContent noDisplay" id="tabContent-2022">
+<table class="tbl2 tbl-sazby">
+<thead>
+<tr><th class="col1">Název</th><th class="tright">Dividenda (hrubá)</th><th>Valná hromada</th><th>ex-date BCPP</th><th>ex-date RMS</th><th>Datum výplaty</th></tr>
+</thead>
+<tbody>
+<tr class="odd"><td class="col1">Komerční banka ****</td><td class="tright">55,50 CZK</td><td>10.10.2022</td><td>29.11.2022</td><td>01.12.2022</td><td>22.12.2022</td></tr>
+<tr><td class="col1">Kofola</td><td class="tright">11,30 CZK</td><td>20.09.2022</td><td>29.09.2022</td><td>03.10.2022</td><td>07.11.2022</td></tr>
+<tr class="odd"><td class="col1">Avast ***</td><td class="tright">1,16 CZK</td><td>n/a</td><td>21.07.2022</td><td>25.07.2022</td><td>12.08.2022</td></tr>
+<tr><td class="col1">Colt CZ Group</td><td class="tright">25,00 CZK</td><td>06.05.2022</td><td>01.06.2022</td><td>03.06.2022</td><td>29.06.2022</td></tr>
+<tr class="odd"><td class="col1">Moneta Money Bank</td><td class="tright">7,00 CZK</td><td>26.04.2022</td><td>29.04.2022</td><td>03.05.2022</td><td>25.05.2022</td></tr>
+<tr><td class="col1">ČEZ</td><td class="tright">48,00 CZK</td><td>28.06.2022</td><td>01.07.2022</td><td>07.07.2022</td><td>01.11.2022</td></tr>
+<tr class="odd"><td class="col1">VIG</td><td class="tright">1,25 EUR</td><td>20.05.2022</td><td>23.05.2022</td><td>25.05.2022</td><td>25.05.2022</td></tr>
+<tr><td class="col1">Erste Group</td><td class="tright">1,60 EUR</td><td>18.05.2022</td><td>23.05.2022</td><td>25.05.2022</td><td>25.05.2022</td></tr>
+<tr class="odd"><td class="col1">Avast **</td><td class="tright">2,40 CZK</td><td>n/a</td><td>24.02.2022</td><td>24.02.2022</td><td>03.03.2022</td></tr>
+<tr><td class="col1">Komerční banka</td><td class="tright">43,80 CZK</td><td>20.04.2022</td><td>28.04.2022</td><td>02.05.2022</td><td>23.05.2022</td></tr>
+<tr class="odd"><td class="col1">Philip Morris ČR</td><td class="tright">1 310,00 CZK</td><td>13.04.2022</td><td>31.05.2022</td><td>02.06.2022</td><td>30.06.2022</td></tr>
+<tr><td class="col1">Moneta Money Bank</td><td class="tright">3,00 CZK</td><td>20.12.2021</td><td>23.12.2021</td><td>28.12.2021</td><td>17.01.2022</td></tr>
+</tbody>
+</table>
+<div><p>** dividenda 0,112 USD orientačně přepočtena do CZK; výplata proběhne v USD</p>
+<p>*** prozatimní dividenda 0,048 USD orientačně přepočtena do CZK; výplata proběhne v USD, volitelně v GBP</p>
+<p>**** mimořádná výplata nerozděleného zisku</p></div>
+</div>
+<div class="diviTblWrap tabContent noDisplay" id="tabContent-2021">
+<table class="tbl2 tbl-sazby">
+<thead>
+<tr><th class="col1">Název</th><th class="tright">Dividenda (hrubá)</th><th>Valná hromada</th><th>ex-date BCPP</th><th>ex-date RMS</th><th>Datum výplaty</th></tr>
+</thead>
+<tbody>
+<tr class="odd"><td class="col1">Erste Group</td><td class="tright">1,00 EUR</td><td>25.11.2021</td><td>30.11.2021</td><td>02.12.2021</td><td>02.12.2021</td></tr>
+<tr><td class="col1">Kofola</td><td class="tright">13,50 CZK</td><td>29.11.2021</td><td>19.11.2021</td><td>23.11.2021</td><td>09.12.2021</td></tr>
+<tr class="odd"><td class="col1">Komerční banka</td><td class="tright">23,86 CZK</td><td>n/a</td><td>10.11.2021</td><td>12.11.2021</td><td>03.12.2021</td></tr>
+<tr><td class="col1">Avast *****</td><td class="tright">1,04 CZK</td><td>06.05.2021</td><td>09.09.2021</td><td>13.09.2021</td><td>15.10.2021</td></tr>
+<tr class="odd"><td class="col1">Česká zbrojovka</td><td class="tright">7,50 CZK</td><td>21.06.2021</td><td>25.06.2021</td><td>29.06.2021</td><td>19.07.2021</td></tr>
+<tr><td class="col1">ČEZ</td><td class="tright">52,00 CZK</td><td>28.06.2021</td><td>01.07.2021</td><td>07.07.2021</td><td>02.08.2021</td></tr>
+<tr class="odd"><td class="col1">Erste Group</td><td class="tright">0,50 EUR</td><td>19.05.2021</td><td>25.05.2021</td><td>27.05.2021</td><td>27.05.2021</td></tr>
+<tr><td class="col1">Stock Spirits ****</td><td class="tright">0,76 CZK</td><td>n/a</td><td>27.05.2021</td><td>31.05.2021</td><td>18.06.2021</td></tr>
+<tr class="odd"><td class="col1">O2 **</td><td class="tright">21,00 CZK</td><td>n/a</td><td>18.06.2021</td><td>22.06.2021</td><td>21.07.2021</td></tr>
+<tr><td class="col1">VIG</td><td class="tright">0,75 EUR</td><td>21.05.2021</td><td>25.05.2021</td><td>27.05.2021</td><td>27.05.2021</td></tr>
+<tr class="odd"><td class="col1">Avast ***</td><td class="tright">2,47 CZK</td><td>06.05.2021</td><td>13.05.2021</td><td>17.05.2021</td><td>18.06.2021</td></tr>
+<tr><td class="col1">Philip Morris ČR</td><td class="tright">1 260,00 CZK</td><td>15.04.2021</td><td>07.04.2021</td><td>09.04.2021</td><td>21.06.2021</td></tr>
+<tr class="odd"><td class="col1">Stock Spirits *</td><td class="tright">4,69 CZK</td><td>04.02.2021</td><td>28.01.2021</td><td>01.02.2021</td><td>19.02.2021</td></tr>
+</tbody>
+</table>
+<div><p>* finální dividenda 0,0678 EUR a mimořádná dividenda 0,11 EUR orientačně přepočtena do CZK, výplata proběhne v GBP</p>
+<p>** výplata se skládá z dividendy 17 Kč a snížení emisního ážia ve výši 4 Kč</p>
+<p>*** finální dividenda 0,112 USD orientačně přepočtena do CZK; výplata proběhne v USD, volitelně v GBP</p>
+<p>**** prozatimní dividenda 0,0298 EUR orientačně přepočtena do CZK; výplata proběhne v GBP</p>
+<p>***** prozatimní dividenda 0,048 USD orientačně přepočtena do CZK; výplata proběhne v USD, volitelně v GBP</p></div>
+</div>
+<div class="diviTblWrap tabContent noDisplay" id="tabContent-2020">
+<table class="tbl2 tbl-sazby">
+<thead>
+<tr><th class="col1">Název</th><th class="tright">Dividenda (hrubá)</th><th>Valná hromada</th><th>ex-date BCPP</th><th>ex-date RMS</th><th>Datum výplaty</th></tr>
+</thead>
+<tbody>
+<tr class="odd"><td class="col1">Kofola</td><td class="tright">13,50 CZK</td><td>02.11.2020</td><td>23.10.2020</td><td>27.10.2020</td><td>02.12.2020</td></tr>
+<tr><td class="col1">Avast *****</td><td class="tright">1,08 CZK</td><td>21.05.2020</td><td>10.09.2020</td><td>14.09.2020</td><td>16.10.2020</td></tr>
+<tr class="odd"><td class="col1">VIG</td><td class="tright">1,15 EUR</td><td>25.09.2020</td><td>25.09.2020</td><td>30.09.2020</td><td>30.09.2020</td></tr>
+<tr><td class="col1">Stock Spirits ****</td><td class="tright">0,76 CZK</td><td>n/a</td><td>28.05.2020</td><td>01.06.2020</td><td>19.06.2020</td></tr>
+<tr class="odd"><td class="col1">Philip Morris ČR</td><td class="tright">1 560,00 CZK</td><td>25.05.2020</td><td>15.05.2020</td><td>19.05.2020</td><td>22.07.2020</td></tr>
+<tr><td class="col1">O2</td><td class="tright">4,00 CZK</td><td>n/a</td><td>21.05.2020</td><td>25.05.2020</td><td>22.06.2020</td></tr>
+<tr class="odd"><td class="col1">ČEZ</td><td class="tright">34,00 CZK</td><td>29.06.2020</td><td>02.07.2020</td><td>07.07.2020</td><td>03.08.2020</td></tr>
+<tr><td class="col1">O2 **</td><td class="tright">17,00 CZK</td><td>n/a</td><td>03.04.2020</td><td>07.04.2020</td><td>06.05.2020</td></tr>
+<tr class="odd"><td class="col1">Erste Group ***</td><td class="tright">0,00 EUR</td><td>n/a</td><td>18.05.2020</td><td>20.05.2020</td><td>20.05.2020</td></tr>
+<tr><td class="col1">Komerční banka ***</td><td class="tright">0,00 CZK</td><td>29.06.2020</td><td>n/a</td><td>n/a</td><td>27.05.2020</td></tr>
+<tr class="odd"><td class="col1">Avast *</td><td class="tright">2,37 CZK</td><td>n/a</td><td>21.05.2020</td><td>23.05.2020</td><td>24.06.2020</td></tr>
+<tr><td class="col1">Stock Spirits</td><td class="tright">1,61 CZK</td><td>06.02.2020</td><td>30.01.2020</td><td>n/a</td><td>21.02.2020</td></tr>
+</tbody>
+</table>
+<div><p>* finální dividenda 0,103 USD orientačně přepočtena do CZK; výplata proběhne v USD, volitelně v GBP</p>
+<p>** v případě zrušení VH 16.4. bude vyplaceno 17 Kč formou zálohy ve stejných termínech, 4 Kč z emisního ážia budou vyplaceny později</p>
+<p>*** výplata dividendy pozastavena v kontextu aktuální ekonomické nejistoty</p>
+<p>**** prozatimní dividenda 0,0277 EUR orientačně přepočtena do CZK; výplata proběhne v GBP</p>
+<p>***** prozatimní dividenda 0,048 USD orientačně přepočtena do CZK; výplata proběhne v USD, volitelně v GBP</p></div>
+</div>
+<div class="diviTblWrap tabContent noDisplay" id="tabContent-2019">
+<table class="tbl2 tbl-sazby">
+<thead>
+<tr><th class="col1">Název</th><th class="tright">Dividenda (hrubá)</th><th>Valná hromada</th><th>ex-date BCPP</th><th>ex-date RMS</th><th>Datum výplaty</th></tr>
+</thead>
+<tbody>
+<tr class="odd"><td class="col1">Moneta Money Bank</td><td class="tright">3,30 CZK</td><td>26.11.2019</td><td>29.11.2019</td><td>03.12.2019</td><td>17.12.2019</td></tr>
+<tr><td class="col1">Avast *****</td><td class="tright">1,03 CZK</td><td>n/a</td><td>12.09.2019</td><td>n/a</td><td>11.10.2019</td></tr>
+<tr class="odd"><td class="col1">Stock Spirits ****</td><td class="tright">0,68 CZK</td><td>n/a</td><td>30.05.2019</td><td>n/a</td><td>21.06.2019</td></tr>
+<tr><td class="col1">ČEZ</td><td class="tright">24,00 CZK</td><td>26.06.2019</td><td>01.07.2019</td><td>03.07.2019</td><td>01.08.2019</td></tr>
+<tr class="odd"><td class="col1">O2 ***</td><td class="tright">21,00 CZK</td><td>n/a</td><td>03.06.2019</td><td>05.06.2019</td><td>04.07.2019</td></tr>
+<tr><td class="col1">Kofola</td><td class="tright">13,50 CZK</td><td>05.06.2019</td><td>28.05.2019</td><td>30.05.2019</td><td>05.07.2019</td></tr>
+<tr class="odd"><td class="col1">Philip Morris ČR</td><td class="tright">1 600,00 CZK</td><td>26.04.2019</td><td>17.04.2019</td><td>23.04.2019</td><td>29.05.2019</td></tr>
+<tr><td class="col1">VIG</td><td class="tright">1,00 EUR</td><td>24.05.2019</td><td>27.05.2019</td><td>29.05.2019</td><td>29.05.2019</td></tr>
+<tr class="odd"><td class="col1">Avast **</td><td class="tright">1,95 CZK</td><td>23.05.2019</td><td>23.05.2019</td><td>n/a</td><td>17.06.2019</td></tr>
+<tr><td class="col1">Komerční banka</td><td class="tright">51,00 CZK</td><td>24.04.2019</td><td>16.04.2019</td><td>18.04.2019</td><td>27.05.2019</td></tr>
+<tr class="odd"><td class="col1">Moneta Money Bank</td><td class="tright">6,15 CZK</td><td>24.04.2019</td><td>29.04.2019</td><td>02.05.2019</td><td>06.06.2019</td></tr>
+<tr><td class="col1">Erste Group</td><td class="tright">1,40 EUR</td><td>15.05.2019</td><td>20.05.2019</td><td>22.05.2019</td><td>22.05.2019</td></tr>
+<tr class="odd"><td class="col1">Stock Spirits *</td><td class="tright">1,54 CZK</td><td>14.02.2019</td><td>07.02.2019</td><td>n/a</td><td>01.03.2019</td></tr>
+</tbody>
+</table>
+<div><p>* finální dividenda 0,0601 EUR (0,0523 GBP) orientačně přepočtena do CZK; výplata proběhne v GBP</p>
+<p>** dividenda 0,086 USD orientačně přepočtena do CZK; výplata proběhne v USD, volitelně v GBP</p>
+<p>*** výplata se skládá z dividendy 17 Kč a snížení emisního ážia ve výši 4 Kč</p>
+<p>**** prozatimní dividenda 0,0263 EUR (0,0231 GBP) orientačně přepočtena do CZK; výplata proběhne v GBP</p>
+<p>***** dividenda 0,044 USD orientačně přepočtena do CZK; výplata proběhne v USD, volitelně v GBP</p></div>
+</div>
+<div class="diviTblWrap tabContent noDisplay" id="tabContent-2018">
+<table class="tbl2 tbl-sazby">
+<thead>
+<tr><th class="col1">Název</th><th class="tright">Dividenda (hrubá)</th><th>Valná hromada</th><th>ex-date BCPP</th><th>ex-date RMS</th><th>Datum výplaty</th></tr>
+</thead>
+<tbody>
+<tr class="odd"><td class="col1">Stock Spirits ***</td><td class="tright">0,64 CZK</td><td>n/a</td><td>30.08.2018</td><td>n/a</td><td>21.09.2018</td></tr>
+<tr><td class="col1">Philip Morris ČR</td><td class="tright">1 080,00 CZK</td><td>27.04.2018</td><td>19.04.2018</td><td>23.04.2018</td><td>28.05.2018</td></tr>
+<tr class="odd"><td class="col1">VIG</td><td class="tright">0,90 EUR</td><td>25.05.2018</td><td>28.05.2018</td><td>30.05.2018</td><td>30.05.2018</td></tr>
+<tr><td class="col1">Stock Spirits **</td><td class="tright">1,45 CZK</td><td>22.05.2018</td><td>03.05.2018</td><td>n/a</td><td>25.05.2018</td></tr>
+<tr class="odd"><td class="col1">Erste Group</td><td class="tright">1,20 EUR</td><td>24.05.2018</td><td>29.05.2018</td><td>31.05.2018</td><td>01.06.2018</td></tr>
+<tr><td class="col1">Kofola</td><td class="tright">16,20 CZK</td><td>18.05.2018</td><td>10.05.2018</td><td>14.05.2018</td><td>18.06.2018</td></tr>
+<tr class="odd"><td class="col1">ČEZ</td><td class="tright">33,00 CZK</td><td>22.06.2018</td><td>27.06.2018</td><td>29.06.2018</td><td>01.08.2018</td></tr>
+<tr><td class="col1">Komerční banka</td><td class="tright">47,00 CZK</td><td>25.04.2018</td><td>17.04.2018</td><td>19.04.2018</td><td>28.05.2018</td></tr>
+<tr class="odd"><td class="col1">O2 *</td><td class="tright">21,00 CZK</td><td>04.06.2018</td><td>01.06.2018</td><td>05.06.2018</td><td>04.07.2018</td></tr>
+<tr><td class="col1">Moneta Money Bank</td><td class="tright">8,00 CZK</td><td>25.04.2018</td><td>30.04.2018</td><td>03.05.2018</td><td>31.05.2018</td></tr>
+</tbody>
+</table>
+<div><p>* výplata se skládá z dividendy 17 Kč a snížení emisního ážia ve výši 4 Kč<br/>** finální dividenda 0,0572 EUR orientačně přepočtena do CZK; celková dividenda za rok 2017 ve výši 0,081 EUR<br/>*** prozatimní dividenda 0,025 EUR orientačně přepočtena do CZK; výplata proběhne v GBP</p></div>
+</div>
+<div class="diviTblWrap tabContent noDisplay" id="tabContent-2017">
+<table class="tbl2 tbl-sazby">
+<thead>
+<tr><th class="col1">Název</th><th class="tright">Dividenda (hrubá)</th><th>Valná hromada</th><th>ex-date BCPP</th><th>ex-date RMS</th><th>Datum výplaty</th></tr>
+</thead>
+<tbody>
+<tr class="odd"><td class="col1">Stock Spirits ****</td><td class="tright">0,62 CZK</td><td>n/a</td><td>31.08.2017</td><td>n/a</td><td>22.09.2017</td></tr>
+<tr><td class="col1">Kofola ***</td><td class="tright">13,50 CZK</td><td>21.06.2017</td><td>13.06.2017</td><td>15.06.2017</td><td>21.07.2017</td></tr>
+<tr class="odd"><td class="col1">Unipetrol</td><td class="tright">8,30 CZK</td><td>07.06.2017</td><td>30.05.2017</td><td>01.06.2017</td><td>07.09.2017</td></tr>
+<tr><td class="col1">Erste Group</td><td class="tright">1,00 EUR</td><td>17.05.2017</td><td>23.05.2017</td><td>25.05.2017</td><td>26.05.2017</td></tr>
+<tr class="odd"><td class="col1">Philip Morris ČR</td><td class="tright">1 000,00 CZK</td><td>28.04.2017</td><td>20.04.2017</td><td>24.04.2017</td><td>29.05.2017</td></tr>
+<tr><td class="col1">Pegas Nonwovens</td><td class="tright">1,30 EUR</td><td>15.06.2017</td><td>12.10.2017</td><td>16.10.2017</td><td>26.10.2017</td></tr>
+<tr class="odd"><td class="col1">VIG</td><td class="tright">0,80 EUR</td><td>12.05.2017</td><td>17.05.2017</td><td>19.05.2017</td><td>19.05.2017</td></tr>
+<tr><td class="col1">ČEZ</td><td class="tright">33,00 CZK</td><td>21.06.2017</td><td>26.06.2017</td><td>28.06.2017</td><td>01.08.2017</td></tr>
+<tr class="odd"><td class="col1">Stock Spirits *</td><td class="tright">1,47 CZK</td><td>23.05.2017</td><td>04.05.2017</td><td>n/a</td><td>26.05.2017</td></tr>
+<tr><td class="col1">MONETA</td><td class="tright">9,80 CZK</td><td>24.04.2017</td><td>12.04.2017</td><td>18.04.2017</td><td>26.06.2017</td></tr>
+<tr class="odd"><td class="col1">O2</td><td class="tright">21,00 CZK</td><td>10.05.2017</td><td>09.05.2017</td><td>11.05.2017</td><td>09.06.2017</td></tr>
+<tr><td class="col1">Komerční banka **</td><td class="tright">40,00 CZK</td><td>25.04.2017</td><td>13.04.2017</td><td>19.04.2017</td><td>26.05.2017</td></tr>
+</tbody>
+</table>
+<div><p>* finální dividenda 0,0545 EUR přepočtena do CZK; celková dividenda za rok 2016 ve výši 0,1962 EUR</p>
+<p>** v roce 2016 proběhlo štěpení akcií v poměru 1:5, pro porovnání vývoje je nutné předchozí dividendy vydělit 5</p>
+<p>*** v prosinci 2016 vyplacena záloha 7 Kč. Celkem činila dividenda ze zisku roku 2016 a nerozděleného zisku 20,50 Kč</p>
+<p>**** prozatimní dividenda 0,0238 EUR (do CZK přepočteno kurzem 26,08), výplata proběhne v GBP</p></div>
+</div>
+<div class="diviTblWrap tabContent noDisplay" id="tabContent-2016">
+<table class="tbl2 tbl-sazby">
+<thead>
+<tr><th class="col1">Název</th><th class="tright">Dividenda (hrubá)</th><th>Valná hromada</th><th>ex-date BCPP</th><th>ex-date RMS</th><th>Datum výplaty</th></tr>
+</thead>
+<tbody>
+<tr class="odd"><td class="col1">Stock Spirits ***</td><td class="tright">0,61 CZK</td><td>23.05.2016</td><td>01.09.2016</td><td>n/a</td><td>23.09.2016</td></tr>
+<tr><td class="col1">Stock Spirits **</td><td class="tright">0,10 GBP</td><td>23.05.2016</td><td>07.07.2016</td><td>n/a</td><td>27.07.2016</td></tr>
+<tr class="odd"><td class="col1">Kofola</td><td class="tright">7,00 CZK</td><td>23.05.2015</td><td>04.11.2016</td><td>n/a</td><td>05.12.2016</td></tr>
+<tr><td class="col1">Unipetrol</td><td class="tright">5,52 CZK</td><td>21.06.2016</td><td>13.06.2016</td><td>15.06.2016</td><td>21.09.2016</td></tr>
+<tr class="odd"><td class="col1">Stock Spirits*</td><td class="tright">1,22 CZK</td><td>23.05.2016</td><td>05.05.2016</td><td>09.05.2016</td><td>27.05.2016</td></tr>
+<tr><td class="col1">Philip Morris ČR</td><td class="tright">920,00 CZK</td><td>29.04.2016</td><td>21.04.2016</td><td>25.04.2016</td><td>30.05.2016</td></tr>
+<tr class="odd"><td class="col1">VIG</td><td class="tright">0,60 EUR</td><td>13.05.2016</td><td>18.05.2016</td><td>20.05.2016</td><td>20.05.2016</td></tr>
+<tr><td class="col1">Pegas Nonwovens</td><td class="tright">1,25 EUR</td><td>15.06.2016</td><td>13.10.2016</td><td>17.10.2016</td><td>26.10.2016</td></tr>
+<tr class="odd"><td class="col1">ČEZ</td><td class="tright">40,00 CZK</td><td>03.06.2016</td><td>08.06.2016</td><td>10.06.2016</td><td>01.08.2016</td></tr>
+<tr><td class="col1">Erste Group</td><td class="tright">0,50 EUR</td><td>11.05.2016</td><td>17.05.2016</td><td>19.05.2016</td><td>19.05.2016</td></tr>
+<tr class="odd"><td class="col1">Fortuna</td><td class="tright">0,00 EUR</td><td>23.05.2016</td><td>n/a</td><td>n/a</td><td>31.12.2016</td></tr>
+<tr><td class="col1">Komerční banka</td><td class="tright">310,00 CZK</td><td>22.04.2016</td><td>14.04.2016</td><td>18.04.2016</td><td>23.05.2016</td></tr>
+<tr class="odd"><td class="col1">O2</td><td class="tright">16,00 CZK</td><td>19.04.2016</td><td>18.04.2016</td><td>20.04.2016</td><td>19.05.2016</td></tr>
+</tbody>
+</table>
+<div><p>* finální dividenda 0,045 EUR přepočtena do CZK; celková dividenda za rok 2015 ve výši 0,058 EUR (včetně prozatimní, ex-date 08/2015)</p>
+<p>** mimořádná dividenda, oficiální prohlášení <a href="http://www.stockspirits.com/index.asp?pageid=87&amp;newsid=474" target="_blank">zde</a></p>
+<p>*** prozatimní dividenda 0,0227 EUR, přepočteno na Kč kurzem 27 Kč/EUR, výplata proběhne v GBP</p></div>
+</div>
+<div class="diviTblWrap tabContent noDisplay" id="tabContent-2015">
+<table class="tbl2 tbl-sazby">
+<thead>
+<tr><th class="col1">Název</th><th class="tright">Dividenda (hrubá)</th><th>Valná hromada</th><th>ex-date BCPP</th><th>ex-date RMS</th><th>Datum výplaty</th></tr>
+</thead>
+<tbody>
+<tr class="odd"><td class="col1">Stock Spirits **</td><td class="tright">0,34 CZK</td><td>n/a</td><td>27.08.2015</td><td>31.08.2015</td><td>25.09.2015</td></tr>
+<tr><td class="col1">Philip Morris ČR</td><td class="tright">880,00 CZK</td><td>30.04.2015</td><td>22.04.2015</td><td>24.04.2015</td><td>26.05.2015</td></tr>
+<tr class="odd"><td class="col1">Stock Spirits *</td><td class="tright">0,69 CZK</td><td>19.05.2015</td><td>30.04.2015</td><td>04.05.2015</td><td>29.05.2015</td></tr>
+<tr><td class="col1">O2</td><td class="tright">13,00 CZK</td><td>28.04.2015</td><td>27.04.2015</td><td>29.04.2015</td><td>28.05.2015</td></tr>
+<tr class="odd"><td class="col1">VIG</td><td class="tright">1,40 EUR</td><td>29.05.2015</td><td>03.06.2015</td><td>03.06.2015</td><td>08.06.2015</td></tr>
+<tr><td class="col1">Pegas Nonwovens</td><td class="tright">1,15 EUR</td><td>15.06.2015</td><td>15.10.2015</td><td>19.10.2015</td><td>28.10.2015</td></tr>
+<tr class="odd"><td class="col1">Fortuna</td><td class="tright">0,00 EUR</td><td>28.05.2015</td><td>n/a</td><td>n/a</td><td>31.12.2015</td></tr>
+<tr><td class="col1">ČEZ</td><td class="tright">40,00 CZK</td><td>12.06.2015</td><td>17.06.2015</td><td>19.06.2015</td><td>03.08.2015</td></tr>
+<tr class="odd"><td class="col1">Komerční banka</td><td class="tright">310,00 CZK</td><td>23.04.2015</td><td>15.04.2015</td><td>17.04.2015</td><td>25.05.2015</td></tr>
+</tbody>
+</table>
+<div><p>* návrh ve výši 0,025 EUR, přepočteno do CZK kurzem 27,60 EUR/CZK</p>
+<p>** prozatimní dividenda ve výši 0,0125 EUR, přepočteno do korun kurzem 27 EUR/CZK, výplata bude v GBP</p></div>
+</div>
+<div class="diviTblWrap tabContent noDisplay" id="tabContent-2014">
+<table class="tbl2 tbl-sazby">
+<thead>
+<tr><th class="col1">Název</th><th class="tright">Dividenda (hrubá)</th><th>Valná hromada</th><th>ex-date BCPP</th><th>ex-date RMS</th><th>Datum výplaty</th></tr>
+</thead>
+<tbody>
+<tr class="odd"><td class="col1">Stock Spirits</td><td class="tright">0,01 GBP</td><td>n/a</td><td>03.09.2014</td><td>08.09.2014</td><td>26.09.2014</td></tr>
+<tr><td class="col1">O2 CR (Telefónica CR)</td><td class="tright">18,00 CZK</td><td>25.06.2014</td><td>24.10.2014</td><td>29.10.2014</td><td>26.11.2014</td></tr>
+<tr class="odd"><td class="col1">Pegas Nonwovens</td><td class="tright">1,10 EUR</td><td>16.06.2014</td><td>16.10.2014</td><td>20.10.2014</td><td>29.10.2014</td></tr>
+<tr><td class="col1">Fortuna</td><td class="tright">0,22 EUR</td><td>06.06.2014</td><td>17.06.2014</td><td>20.06.2014</td><td>26.06.2014</td></tr>
+<tr class="odd"><td class="col1">ČEZ</td><td class="tright">40,00 CZK</td><td>27.06.2014</td><td>01.07.2014</td><td>04.07.2014</td><td>01.08.2014</td></tr>
+<tr><td class="col1">Philip Morris ČR *</td><td class="tright">880,00 CZK</td><td>25.04.2014</td><td>16.04.2014</td><td>22.04.2014</td><td>26.05.2014</td></tr>
+<tr class="odd"><td class="col1">VIG</td><td class="tright">1,30 EUR</td><td>06.06.2014</td><td>11.06.2014</td><td>11.06.2014</td><td>16.06.2014</td></tr>
+<tr><td class="col1">Erste Group</td><td class="tright">0,20 EUR</td><td>21.05.2014</td><td>26.05.2014</td><td>26.05.2014</td><td>28.05.2014</td></tr>
+<tr class="odd"><td class="col1">Komerční banka</td><td class="tright">230,00 CZK</td><td>30.04.2014</td><td>22.04.2014</td><td>24.04.2014</td><td>02.06.2014</td></tr>
+</tbody>
+</table>
+<div><p>* Philip Morris ČR - částka 880 Kč se skládá z 820 Kč ve formě dividendy a 60 Kč ve formě výplaty ze zrušeného rezervního fondu.</p></div>
+</div>
+<div class="diviTblWrap tabContent noDisplay" id="tabContent-2013">
+<table class="tbl2 tbl-sazby">
+<thead>
+<tr><th class="col1">Název</th><th class="tright">Dividenda (hrubá)</th><th>Valná hromada</th><th>ex-date BCPP</th><th>ex-date RMS</th><th>Datum výplaty</th></tr>
+</thead>
+<tbody>
+<tr class="odd"><td class="col1">Pegas Nonwovens</td><td class="tright">1,05 EUR</td><td>17.06.2013</td><td>16.10.2013</td><td>21.10.2013</td><td>29.10.2013</td></tr>
+<tr><td class="col1">ČEZ</td><td class="tright">40,00 CZK</td><td>19.06.2013</td><td>21.06.2013</td><td>26.06.2013</td><td>01.08.2013</td></tr>
+<tr class="odd"><td class="col1">Fortuna</td><td class="tright">0,67 EUR</td><td>28.05.2013</td><td>07.06.2013</td><td>12.06.2013</td><td>26.06.2013</td></tr>
+<tr><td class="col1">VIG</td><td class="tright">1,20 EUR</td><td>03.05.2013</td><td>13.05.2013</td><td>13.05.2013</td><td>13.05.2013</td></tr>
+<tr class="odd"><td class="col1">Philip Morris ČR</td><td class="tright">900,00 CZK</td><td>26.04.2013</td><td>17.04.2013</td><td>22.04.2013</td><td>27.05.2013</td></tr>
+<tr><td class="col1">Erste Bank</td><td class="tright">0,40 EUR</td><td>16.05.2013</td><td>22.05.2013</td><td>22.05.2013</td><td>24.05.2013</td></tr>
+<tr class="odd"><td class="col1">Telefónica CR *</td><td class="tright">30,00 CZK</td><td>22.04.2013</td><td>10.10.2013</td><td>15.10.2013</td><td>11.11.2013</td></tr>
+<tr><td class="col1">Komerční banka</td><td class="tright">230,00 CZK</td><td>24.04.2013</td><td>15.04.2013</td><td>18.04.2013</td><td>27.05.2013</td></tr>
+</tbody>
+</table>
+<div><p>* Telefónica CR - částka 30 Kč se skládá z 20 Kč ve formě dividendy a 10 Kč ve formě snížení emisního ážia.</p></div>
+</div>
+<div class="diviTblWrap tabContent noDisplay" id="tabContent-2012">
+<table class="tbl2 tbl-sazby">
+<thead>
+<tr><th class="col1">Název</th><th class="tright">Dividenda (hrubá)</th><th>Valná hromada</th><th>ex-date BCPP</th><th>ex-date RMS</th><th>Datum výplaty</th></tr>
+</thead>
+<tbody>
+<tr class="odd"><td class="col1">Telefónica CR *</td><td class="tright">13,00 CZK</td><td>19.04.2012</td><td>12.11.2012</td><td>15.11.2012</td><td>14.12.2012</td></tr>
+<tr><td class="col1">New World Resources</td><td class="tright">0,06 EUR</td><td>26.04.2012</td><td>05.09.2012</td><td>10.09.2012</td><td>19.09.2012</td></tr>
+<tr class="odd"><td class="col1">Pegas Nonwovens</td><td class="tright">1,05 EUR</td><td>15.06.2012</td><td>17.10.2012</td><td>22.10.2012</td><td>30.10.2012</td></tr>
+<tr><td class="col1">Komerční banka</td><td class="tright">160,00 CZK</td><td>26.04.2012</td><td>17.04.2012</td><td>20.04.2012</td><td>28.05.2012</td></tr>
+<tr class="odd"><td class="col1">Fortuna</td><td class="tright">0,23 EUR</td><td>25.05.2012</td><td>06.06.2012</td><td>11.06.2012</td><td>25.06.2012</td></tr>
+<tr><td class="col1">ČEZ</td><td class="tright">45,00 CZK</td><td>26.06.2012</td><td>28.06.2012</td><td>03.07.2012</td><td>01.08.2012</td></tr>
+<tr class="odd"><td class="col1">VIG</td><td class="tright">1,10 EUR</td><td>04.05.2012</td><td>14.05.2012</td><td>14.05.2012</td><td>14.05.2012</td></tr>
+<tr><td class="col1">Philip Morris ČR</td><td class="tright">920,00 CZK</td><td>27.04.2012</td><td>18.04.2012</td><td>23.04.2012</td><td>23.05.2012</td></tr>
+<tr class="odd"><td class="col1">Telefónica</td><td class="tright">27,00 CZK</td><td>19.04.2012</td><td>10.09.2012</td><td>13.09.2012</td><td>10.10.2012</td></tr>
+<tr><td class="col1">New World Resources</td><td class="tright">0,07 EUR</td><td>26.04.2012</td><td>28.03.2012</td><td>02.04.2012</td><td>02.05.2012</td></tr>
+</tbody>
+</table>
+<div><p>* Telefonica CR - kromě dividendy ve výši 27 Kč bylo vyplaceno 13 Kč odpovídající snížení základního kapitálu.</p></div>
+</div>
+<div class="diviTblWrap tabContent noDisplay" id="tabContent-2011">
+<table class="tbl2 tbl-sazby">
+<thead>
+<tr><th class="col1">Název</th><th class="tright">Dividenda (hrubá)</th><th>Valná hromada</th><th>ex-date BCPP</th><th>ex-date RMS</th><th>Datum výplaty</th></tr>
+</thead>
+<tbody>
+<tr class="odd"><td class="col1">New World Resources</td><td class="tright">0,16 EUR</td><td>n/a</td><td>31.08.2011</td><td>05.09.2011</td><td>30.09.2011</td></tr>
+<tr><td class="col1">Pegas Nonwovens</td><td class="tright">1,00 EUR</td><td>n/a</td><td>18.10.2011</td><td>21.10.2011</td><td>27.10.2011</td></tr>
+<tr class="odd"><td class="col1">VIG</td><td class="tright">1,00 EUR</td><td>06.05.2011</td><td>16.05.2011</td><td>16.05.2011</td><td>16.05.2011</td></tr>
+<tr><td class="col1">Fortuna</td><td class="tright">0,30 EUR</td><td>25.05.2011</td><td>06.06.2011</td><td>09.06.2011</td><td>24.06.2011</td></tr>
+<tr class="odd"><td class="col1">ČEZ</td><td class="tright">50,00 CZK</td><td>01.06.2011</td><td>03.06.2011</td><td>08.06.2011</td><td>01.08.2011</td></tr>
+<tr><td class="col1">Philip Morris ČR</td><td class="tright">1 260,00 CZK</td><td>29.04.2011</td><td>20.04.2011</td><td>26.04.2011</td><td>23.05.2011</td></tr>
+<tr class="odd"><td class="col1">Erste Bank</td><td class="tright">0,70 EUR</td><td>12.05.2011</td><td>17.05.2011</td><td>17.05.2011</td><td>19.05.2011</td></tr>
+<tr><td class="col1">New World Resources</td><td class="tright">0,22 EUR</td><td>28.04.2011</td><td>09.03.2011</td><td>12.03.2011</td><td>15.04.2011</td></tr>
+<tr class="odd"><td class="col1">Komerční banka</td><td class="tright">270,00 CZK</td><td>21.04.2011</td><td>12.04.2011</td><td>15.04.2011</td><td>23.05.2011</td></tr>
+<tr><td class="col1">Telefónica O2 ČR</td><td class="tright">40,00 CZK</td><td>28.04.2011</td><td>05.09.2011</td><td>08.09.2011</td><td>06.10.2011</td></tr>
+</tbody>
+</table>
+<div></div>
+</div>
+<div class="diviTblWrap tabContent noDisplay" id="tabContent-2010">
+<table class="tbl2 tbl-sazby">
+<thead>
+<tr><th class="col1">Název</th><th class="tright">Dividenda (hrubá)</th><th>Valná hromada</th><th>ex-date BCPP</th><th>ex-date RMS</th><th>Datum výplaty</th></tr>
+</thead>
+<tbody>
+<tr class="odd"><td class="col1">New World Resources</td><td class="tright">0,21 EUR</td><td>27.04.2010</td><td>15.09.2010</td><td>20.09.2010</td><td>22.10.2010</td></tr>
+<tr><td class="col1">VIG</td><td class="tright">0,90 EUR</td><td>29.06.2010</td><td>05.07.2010</td><td>05.07.2010</td><td>05.07.2010</td></tr>
+<tr class="odd"><td class="col1">Philip Morris ČR</td><td class="tright">780,00 CZK</td><td>30.04.2010</td><td>28.04.2010</td><td>03.05.2010</td><td>24.05.2010</td></tr>
+<tr><td class="col1">Pegas Nonwovens</td><td class="tright">0,95 EUR</td><td>15.06.2010</td><td>20.10.2010</td><td>25.10.2010</td><td>29.10.2010</td></tr>
+<tr class="odd"><td class="col1">Erste Bank</td><td class="tright">0,65 EUR</td><td>12.05.2010</td><td>17.05.2010</td><td>17.05.2010</td><td>19.05.2010</td></tr>
+<tr><td class="col1">Telefónica O2 CR</td><td class="tright">40,00 CZK</td><td>07.05.2010</td><td>06.09.2010</td><td>09.09.2010</td><td>06.10.2010</td></tr>
+<tr class="odd"><td class="col1">ČEZ</td><td class="tright">53,00 CZK</td><td>29.06.2010</td><td>23.06.2010</td><td>07.07.2010</td><td>02.08.2010</td></tr>
+<tr><td class="col1">Komerční banka</td><td class="tright">170,00 CZK</td><td>29.04.2010</td><td>20.04.2010</td><td>23.04.2010</td><td>31.05.2010</td></tr>
+</tbody>
+</table>
+<div></div>
+</div>
+<div class="diviTblWrap tabContent noDisplay" id="tabContent-2009">
+<table class="tbl2 tbl-sazby">
+<thead>
+<tr><th class="col1">Název</th><th class="tright">Dividenda (hrubá)</th><th>Valná hromada</th><th>ex-date BCPP</th><th>ex-date RMS</th><th>Datum výplaty</th></tr>
+</thead>
+<tbody>
+<tr class="odd"><td class="col1">New World Resources</td><td class="tright">0,18 EUR</td><td>28.04.2009</td><td>n/a</td><td>n/a</td><td>22.05.2009</td></tr>
+<tr><td class="col1">VIG</td><td class="tright">1,10 EUR</td><td>24.04.2009</td><td>n/a</td><td>n/a</td><td>04.05.2009</td></tr>
+<tr class="odd"><td class="col1">Philip Morris ČR</td><td class="tright">560,00 CZK</td><td>29.04.2009</td><td>20.04.2009</td><td>n/a</td><td>27.05.2009</td></tr>
+<tr><td class="col1">Pegas Nonwovens</td><td class="tright">0,90 EUR</td><td>15.06.2009</td><td>n/a</td><td>n/a</td><td>29.09.2009</td></tr>
+<tr class="odd"><td class="col1">Erste Bank</td><td class="tright">0,65 EUR</td><td>12.05.2009</td><td>n/a</td><td>n/a</td><td>19.05.2009</td></tr>
+<tr><td class="col1">Telefónica O2 CR</td><td class="tright">50,00 CZK</td><td>03.04.2009</td><td>n/a</td><td>n/a</td><td>07.10.2009</td></tr>
+<tr class="odd"><td class="col1">ČEZ</td><td class="tright">50,00 CZK</td><td>13.05.2009</td><td>n/a</td><td>n/a</td><td>03.08.2009</td></tr>
+<tr><td class="col1">Komerční banka</td><td class="tright">180,00 CZK</td><td>29.04.2009</td><td>n/a</td><td>n/a</td><td>29.06.2009</td></tr>
+</tbody>
+</table>
+<div></div>
+</div>
+<div class="diviTblWrap tabContent noDisplay" id="tabContent-2008">
+<table class="tbl2 tbl-sazby">
+<thead>
+<tr><th class="col1">Název</th><th class="tright">Dividenda (hrubá)</th><th>Valná hromada</th><th>ex-date BCPP</th><th>ex-date RMS</th><th>Datum výplaty</th></tr>
+</thead>
+<tbody>
+<tr class="odd"><td class="col1">New World Resources</td><td class="tright">0,28 EUR</td><td>29.04.2008</td><td>n/a</td><td>n/a</td><td>23.10.2008</td></tr>
+<tr><td class="col1">VIG</td><td class="tright">1,10 EUR</td><td>16.04.2008</td><td>n/a</td><td>n/a</td><td>28.04.2008</td></tr>
+<tr class="odd"><td class="col1">Pegas Nonwovens</td><td class="tright">0,85 EUR</td><td>16.06.2008</td><td>n/a</td><td>n/a</td><td>30.09.2008</td></tr>
+<tr><td class="col1">Erste Bank</td><td class="tright">0,75 EUR</td><td>06.05.2008</td><td>n/a</td><td>n/a</td><td>13.05.2008</td></tr>
+<tr class="odd"><td class="col1">Philip Morris ČR</td><td class="tright">880,00 CZK</td><td>28.04.2008</td><td>n/a</td><td>n/a</td><td>26.05.2008</td></tr>
+<tr><td class="col1">Unipetrol</td><td class="tright">17,65 CZK</td><td>26.06.2008</td><td>n/a</td><td>n/a</td><td>29.08.2008</td></tr>
+<tr class="odd"><td class="col1">Telefónica O2 CR</td><td class="tright">50,00 CZK</td><td>21.04.2008</td><td>n/a</td><td>n/a</td><td>08.10.2008</td></tr>
+<tr><td class="col1">ČEZ</td><td class="tright">40,00 CZK</td><td>21.05.2008</td><td>n/a</td><td>n/a</td><td>04.08.2008</td></tr>
+<tr class="odd"><td class="col1">Komerční banka</td><td class="tright">180,00 CZK</td><td>29.04.2008</td><td>n/a</td><td>n/a</td><td>30.06.2008</td></tr>
+</tbody>
+</table>
+<div></div>
+</div>
+<div class="box3 section">
+<div class="boxin">
+<form action="/zpravodajstvi/dividendy" id="newsSearchForm" method="post">
+<p class="formline1">
+<input class="text company jsOnly" name="company" placeholder="&lt;společnost&gt;" type="text" value=""/>
+<input name="stockId" type="hidden" value=""/>
+                 
+
+                <label for="dateFrom">datum od</label>
+<input class="text text-date datepicker" id="dateFrom" name="dateFrom" type="text" value="16.04.2022"/>
+<a class="datepickImg ico16self ico16-calendar jsOnlyInline-block" href="#"> </a>
+                 
+                <label for="dateTo">datum do</label>
+<input class="text text-date datepicker" id="dateTo" name="dateTo" type="text" value=""/>
+<a class="datepickImg ico16self ico16-calendar jsOnlyInline-block" href="#"> </a>
+                 
+
+                <input class="button" name="actFind" type="submit" value="zobraz"/>
+</p>
+</form>
+</div>
+</div>
+<div class="paginator"><strong>1</strong><span class="sep"> | </span><a href="/zpravodajstvi/dividendy?offset=5">2</a><span class="sep"> | </span><a href="/zpravodajstvi/dividendy?offset=10">3</a><span class="sep"> | </span><a href="/zpravodajstvi/dividendy?offset=15">4</a></div>
+<ul class="articles2">
+<li>
+<h6><a href="/zpravodajstvi/odborne-clanky/280668-dividendy-nemeckych-akcii-z-indexu-dax-40-v-roce-2023">Dividendy německých akcií z indexu DAX 40 v roce 2023</a></h6>
+<p class="info">
+                12.04.2023 17:11,                                     BMW,                                    ALV,                                    BAS,                                    VOW3,
+   DPW,                                    EOAN,                                    PAH3,                                    BAYN,                                    VNA,                                    DTG,
+                  MBG                            </p>
+<p>
+                Dividendový kalendář německých titulů z indexu DAX 40 v roce 2023.
+            </p>
+</li>
+<li>
+<h6><a href="/zpravodajstvi/zpravy-z-burzy/280356-dividenda-erste-group-bank-v-roce-2023-a-dalsich-letech-komentar-analytika">Dividenda Erste Group Bank v roce 2023 a dalších letech (+komentář analytika)</a></h6>
+<p class="info">
+                03.04.2023 13:47                            </p>
+<p>
+                Podrobné informace o dividendě Erste Group Bank.
+            </p>
+</li>
+<li>
+<h6><a href="/zpravodajstvi/zpravy-z-burzy/280295-dividenda-komercni-banky-v-roce-2023-a-dalsich-letech-komentar-analytika">Dividenda Komerční banky v roce 2023 a dalších letech (+komentář analytika)</a></h6>
+<p class="info">
+                31.03.2023 12:33,                                     BAAKOMB                            </p>
+<p>
+                Podrobné informace o dividendě Komerční banky.
+            </p>
+</li>
+<li>
+<h6><a href="/zpravodajstvi/zpravy-z-burzy/280193-dividenda-moneta-money-bank-v-roce-2023-a-dalsich-letech-komentar-analytika">Dividenda Moneta Money Bank v roce 2023 a dalších letech (+komentář analytika)</a></h6>
+<p class="info">
+                29.03.2023 15:41,                                     BAAGECBA                            </p>
+<p>
+                Podrobné informace o dividendě Moneta Money Bank.
+            </p>
+</li>
+<li>
+<h6><a href="/zpravodajstvi/zpravy-z-burzy/272802-dividenda-kofoly-ceskoslovensko-v-roce-2022-a-dalsich-letech-komentar-analytika">Dividenda Kofoly ČeskoSlovensko v roce 2022 a dalších letech (+komentář analytika)</a></h6>      
+<p class="info">
+                20.09.2022 14:46,                                     BABKOFOL                            </p>
+<p>
+                Podrobné informace o dividendě společnosti Kofola ČeskoSlovensko.
+            </p>
+</li>
+</ul>
+<div class="paginator"><strong>1</strong><span class="sep"> | </span><a href="/zpravodajstvi/dividendy?offset=5">2</a><span class="sep"> | </span><a href="/zpravodajstvi/dividendy?offset=10">3</a><span class="sep"> | </span><a href="/zpravodajstvi/dividendy?offset=15">4</a></div>
+</div>
+<div id="bar">
+<div id="menu">
+<div class="inner">
+<div class="inner2">
+<ul>
+<li>
+<div>
+<a href="/">
+<span>
+            Úvod
+            </span>
+</a>
+</div>
+</li>
+<li>
+<div>
+<a href="/bankovni-sluzby">
+<span>
+            Bankovní služby
+            </span>
+</a>
+</div>
+</li>
+<li>
+<div>
+<a href="/podilove-fondy">
+<span>
+            Podílové fondy
+            </span>
+</a>
+</div>
+</li>
+<li>
+<div>
+<a href="/fio-dluhopisy">
+<span>
+            Fio dluhopisy
+            </span>
+</a>
+</div>
+</li>
+<li>
+<div>
+<a href="/akcie-investice">
+<span>
+            Akcie a obchodování
+            </span>
+</a>
+</div>
+</li>
+<li class="expanded">
+<div>
+<a href="/zpravodajstvi">
+<span>
+            Zpravodajství
+            </span>
+</a>
+</div>
+<ul>
+<li>
+<a href="/zpravodajstvi/zpravy-z-burzy">
+<span>
+                    Zprávy z burzy
+                    </span>
+</a>
+</li>
+<li>
+<a href="/zpravodajstvi/odborne-clanky">
+<span>
+                    Odborné články
+                    </span>
+</a>
+</li>
+<li>
+<a href="/zpravodajstvi/stocklist">
+<span>
+                    StockList
+                    </span>
+</a>
+</li>
+<li>
+<a href="/zpravodajstvi/analyzy">
+<span>
+                    Analýzy
+                    </span>
+</a>
+</li>
+<li>
+<a href="/zpravodajstvi/souhrn-z-trhu-reporty">
+<span>
+                    Souhrn z trhu - reporty
+                    </span>
+</a>
+</li>
+<li>
+<a href="/zpravodajstvi/modelova-portfolia">
+<span>
+                    Modelová portfolia
+                    </span>
+</a>
+</li>
+<li>
+<a class="active" href="/zpravodajstvi/dividendy">
+<span>
+                    Dividendy
+                    </span>
+</a>
+</li>
+<li>
+<a href="/zpravodajstvi/ipo-a-ostatni">
+<span>
+                    IPO a ostatní
+                    </span>
+</a>
+</li>
+<li>
+<a href="/zpravodajstvi/podilove-fondy">
+<span>
+                    Podílové fondy
+                    </span>
+</a>
+</li>
+<li>
+<a href="/zpravodajstvi/odber-zpravodajstvi">
+<span>
+                    Odběr zpravodajství
+                    </span>
+</a>
+</li>
+</ul>
+</li>
+<li class="last">
+<div>
+<a href="/o-nas">
+<span>
+            O nás
+            </span>
+</a>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="barbox barbox-ebroker">
+<div class="barboxin">
+<h6>e-Broker</h6>
+<p><a href="https://ebroker.fio.cz/e-broker.cgi">Přihlásit se</a> <span class="sep">|</span> <a class="silver" href="/akcie-investice/internetove-obchodovani/demo-e-broker">Založit demo</a></p>
+<h6>Internetbanking</h6>
+<p><a href="https://ib.fio.cz/ib/login">Přihlásit se</a> <span class="sep">|</span> <a class="silver" href="/bankovni-sluzby/internetbanking/demo-internetbanking">Založit demo</a></p>
+<h6>Smartbanking</h6>
+<p><a href="https://www.fio.cz/bankovni-sluzby/smartbanking">Stáhnout</a> <span class="sep">|</span> <a class="silver" href="https://www.fio.cz/bankovni-sluzby/smartbanking#aktivace">Jak aktivovat</a></p>
+</div>
+</div>
+<div class="barbox barbox-mapka">
+<div class="barboxin">
+<form action="#">
+<h4>Pobočky a bankomaty</h4>
+<a class="noDisplay" href="/o-nas/kontakty" id="contactsLink"></a>
+<p>
+<label for="mapka-kraj">Vyberte kraj:</label>
+<select id="mapka-kraj" name="mapka-kraj">
+<option value="0">=== vyberte ===</option>
+<option value="1">Jihočeský</option>
+<option value="2">Jihomoravský</option>
+<option value="3">Karlovarský</option>
+<option value="4">Královéhradecký</option>
+<option value="5">Liberecký</option>
+<option value="6">Moravskoslezský</option>
+<option value="7">Olomoucký</option>
+<option value="8">Pardubický</option>
+<option value="9">Plzeňský</option>
+<option value="10">Praha</option>
+<option value="11">Středočeský</option>
+<option value="12">Ústecký</option>
+<option value="13">Vysočina</option>
+<option value="14">Zlínský</option>
+</select>
+</p>
+</form>
+<div class="section">
+<div id="mapka">
+<img alt="Mapa ČR" height="103" src="./gfx/mapka.gif" usemap="#mapka_points" width="180"/>
+<map id="mapka_points" name="mapka_points">
+<area alt="" class="mapOff2" coords="38,85,41,76,44,65,54,63,74,62,74,71,87,76,92,79,89,86,78,84,76,95,68,101,56,102,50,100,37,84,38,85" href="/o-nas/kontakty?region=1#mapBranches" shape="poly"/>
+<area alt="" class="mapOff3" coords="94,88,110,81,116,59,122,58,124,68,132,67,134,75,134,80,148,88,145,91,136,89,129,98,118,92,113,95,105,94,99,90,94,88" href="/o-nas/kontakty?region=2#mapBranches" shape="poly"/>
+<area alt="" class="mapOff4" coords="0,28,6,35,13,26,21,25,29,32,29,40,20,45,10,45,2,39,0,28" href="/o-nas/kontakty?region=3#mapBranches" shape="poly"/>
+<area alt="" class="mapOff5" coords="83,23,93,22,91,11,109,15,113,18,108,25,118,34,110,40,98,36,87,36,81,23,84,22,83,23" href="/o-nas/kontakty?region=4#mapBranches" shape="poly"/>
+<area alt="" class="mapOff6" coords="62,12,69,8,76,7,75,1,82,1,88,9,89,19,87,21,76,18,65,21,60,18,62,12" href="/o-nas/kontakty?region=5#mapBranches" shape="poly"/>
+<area alt="" class="mapOff7" coords="143,29,147,28,149,33,146,35,152,41,158,39,171,43,179,56,170,64,158,59,135,46,137,34,142,30,143,29" href="/o-nas/kontakty?region=6#mapBranches" shape="poly"/>
+<area alt="" class="mapOff8" coords="124,40,126,33,129,32,125,24,139,30,134,37,133,48,151,57,151,62,136,69,125,59,124,40,124,40" href="/o-nas/kontakty?region=7#mapBranches" shape="poly"/>
+<area alt="" class="mapOff9" coords="90,38,102,37,110,42,122,36,124,55,114,58,92,50,90,38" href="/o-nas/kontakty?region=8#mapBranches" shape="poly"/>
+<area alt="" class="mapOff10" coords="9,48,22,48,32,41,44,48,40,59,42,72,34,87,22,70,17,70,7,53,9,48" href="/o-nas/kontakty?region=9#mapBranches" shape="poly"/>
+<area alt="" class="mapOff1" coords="61,34,67,34,69,38,70,43,64,47,56,46,55,40,57,37,61,34" href="/o-nas/kontakty?region=10#mapBranches" shape="poly"/>
+<area alt="" class="mapOff11" coords="51,30,59,29,62,23,67,24,74,19,80,21,80,26,83,31,86,32,87,39,89,44,89,49,83,53,81,59,74,59,69,61,44,63,42,56,46,46,35,41,51,30" href="/o-nas/kontakty?region=11#mapBranches" shape="poly"/>    
+<area alt="" class="mapOff12" coords="24,22,58,5,58,1,65,1,67,6,58,15,59,25,46,31,33,37,24,22" href="/o-nas/kontakty?region=12#mapBranches" shape="poly"/>
+<area alt="" class="mapOff13" coords="91,51,102,55,112,60,111,69,107,81,92,85,90,76,76,70,77,61,86,53,91,51" href="/o-nas/kontakty?region=13#mapBranches" shape="poly"/>
+<area alt="" class="mapOff14" coords="141,68,150,64,156,61,164,62,168,67,162,71,162,80,156,82,155,85,150,88,139,81,135,72,141,68" href="/o-nas/kontakty?region=14#mapBranches" shape="poly"/>
+</map>
+</div>
+</div>
+<div class="FB">
+<div>
+<a href="https://www.facebook.com/Fiobanka" target="_blank" title="Facebook"><img alt="Facebook" class="HpSocialIcon" src="gfx/soc_facebook.png"/></a>
+<a href="https://twitter.com/FIO_banka" target="_blank" title="Twitter"><img alt="Twitter" class="HpSocialIcon" src="gfx/soc_twitter.png"/></a>
+<a href="https://www.youtube.com/user/fiobanka" target="_blank" title="YouTube"><img alt="YouTube" class="HpSocialIcon" src="gfx/soc_youtube.png"/></a>
+</div>
+</div>
+<div class="FB">
+<div>
+<a href="https://twitter.com/Fio_investice" target="_blank" title="Twitter investice"><img alt="Twitter" class="HpSocialIcon" src="gfx/soc_twitter_sq.png"/></a>
+<a href="https://www.linkedin.com/company/fio-banka" target="_blank" title="LinkedIn"><img alt="LinkedIn" class="HpSocialIcon" src="gfx/soc_linkedin.png"/></a>
+</div>
+</div>
+</div>
+</div>
+<div class="barbox barbox-listek">
+<div class="barboxin">
+<h4>Devizové kurzy</h4>
+<table class="tbl1">
+<thead><tr><th></th><th class="tright"><strong>Nákup</strong></th><th class="tright"><strong>Prodej</strong></th></tr></thead>
+<tbody>
+<tr><td class="tleft"><strong>EUR</strong></td><td class="tright">22,70836</td><td class="tright">23,96864</td></tr>
+<tr><td class="tleft"><strong>USD</strong></td><td class="tright">20,65192</td><td class="tright">21,79808</td></tr>
+<tr><td class="tleft"><strong>GBP</strong></td><td class="tright">25,67892</td><td class="tright">27,10408</td></tr>
+<tr><td class="tleft"><strong>CHF</strong></td><td class="tright">23,12383</td><td class="tright">24,40717</td></tr>
+<tr><td class="tleft"><strong>PLN</strong></td><td class="tright">4,89399</td><td class="tright">5,16561</td></tr>
+</tbody>
+</table>
+<p class="next"><a href="akcie-investice/dalsi-sluzby-fio/devizove-konverze">Kompletní informace zde</a></p>
+</div>
+</div>
+</div>
+<div class="cleaner">
+<hr/>
+</div>
+<div id="footer">
+<p class="links">
+<a href="http://m.fio.cz/cs/zpravodajstvi">Mobilní verze</a> <span class="sep">|</span> <a href="/mapa-stranek">Mapa stránek</a>
+<span class="sep">|</span> <a href="/spolecnost-fio/manualy-dokumenty-ceniky/ostatni/pravni-prohlaseni">Právní prohlášení</a>
+<span class="sep">|</span> <a data-cc="c-settings" href="" id="nastaveniCookies" type="button">Nastavení cookies</a>
+</p>
+<p>
+                Copyright © 2023 Fio banka                      <span class="sep">|</span>
+<a class="external" href="https://www.fiofondy.cz/" target="_blank">FIOFONDY</a>
+<span class="sep">|</span>
+<a class="external" href="http://www.rmsystem.cz/" target="_blank">RM-SYSTÉM</a>
+<span class="sep">|</span>
+<a class="external" href="http://www.akcie.cz/" target="_blank">AKCIE.CZ</a> </p>
+</div>
+<script defer="" src="/js/cookieconsent.js"></script>
+<script defer="" src="/js/cookies_client.js"></script>
+</div></body></html>
+
+>>>
