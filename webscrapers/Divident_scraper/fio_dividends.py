@@ -6,7 +6,6 @@ response = requests.get("https://www.fio.cz/zpravodajstvi/dividendy")
 
 # create a beautifulsoup object from the HTML content
 soup = BeautifulSoup(response.content, "html.parser")
-soup
 
 # find the table in the HTML
 table = soup.find("table")
