@@ -56,4 +56,6 @@ def play_game():
     print_board(board)
     print(f"{winner} wins!")
 
-play_game()
+while True:
+    play_game()
+    input()
