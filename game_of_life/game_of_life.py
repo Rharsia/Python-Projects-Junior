@@ -18,3 +18,19 @@ def land_display(land):
         print(i)
 
 land_display(land)
+
+def check_land(land):
+    updated_land = []
+
+    for i in range(land_size):
+        updated_land.append([])
+        for j in range(land_size):
+            if land[i][j] == 1:
+                updated_land[i].append(0)
+
+    return updated_land
+
+check_land(land)
+
+updated_land = check_land(land)
+land_display(updated_land)
