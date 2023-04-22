@@ -53,8 +53,9 @@ def count_live_neighbours(land, i, j):
 
     return count
 
-# play the game
+# play the game 
 gen = 1
+print("This is a simulation of game of life")
 while True: 
     land_display(land)
     print(f"Generation {gen}")
