@@ -5,7 +5,10 @@
 # 4) Any dead cell with exactly three live neighbors becomes a live cell, as if by reproduction
 import random
 
-land_size = 15
+gen = 1
+print("This is a simulation of game of life")
+print()
+land_size = int(input("Enter the desired land size (integer): "))
 
 land = []
 
@@ -54,8 +57,6 @@ def count_live_neighbours(land, i, j):
     return count
 
 # play the game 
-gen = 1
-print("This is a simulation of game of life")
 while True: 
     land_display(land)
     print(f"Generation {gen}")
