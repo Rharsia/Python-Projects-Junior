@@ -4,24 +4,45 @@
 # 3) Any live cell with more than three live neighbors dies, as if by overpopulation
 # 4) Any dead cell with exactly three live neighbors becomes a live cell, as if by reproduction
 import random
+from colorama import Fore, Back, Style
+# game initiation
+def game_initiation():
+    gen = 1
+    print("This is a simulation of game of life")
+    print()
 
-gen = 1
-print("This is a simulation of game of life")
-print()
-land_size = int(input("Enter the desired land size (integer): "))
+    land_size = get_land_size()
+    land = create_land(land_size)
 
-land = []
+    return (gen, land_size, land)
 
-for i in range(land_size):
-    land.append([])
-    for j in range(land_size):
-        land[i].append(random.randint(0,1))
+# get the desired land size
+def get_land_size():
+    land_size = int(input("Enter the desired land size (integer): "))
+    return land_size
 
+# generate the initial land
+def create_land(land_size):
+    land = []
+    for i in range(land_size):
+        land.append([])
+        for j in range(land_size):
+            land[i].append(random.randint(0,1))
+
+    return land
+
+# display the land
 def land_display(land):
-    for i in land:
-        print(i)
+    for row in land:
+        for col in row:
+            if col == 1:
+                print(Fore.GREEN + ' 1 ', end='')
+            else:
+                print(Fore.RED + ' 0 ', end='')
+        print(Style.RESET_ALL)
 
-def check_land(land):
+# generate another generation
+def check_land(land, land_size):
     updated_land = []
 
     for i in range(land_size):
@@ -41,10 +62,9 @@ def check_land(land):
                 else:
                     updated_land[i].append(0)
 
-                
-
     return updated_land
 
+# find out the number of live cells around
 def count_live_neighbours(land, i, j):
     """Count the number of live neighbours for the cell at (i, j)"""
     count = 0
@@ -57,10 +77,15 @@ def count_live_neighbours(land, i, j):
     return count
 
 # play the game 
+variables = game_initiation()
+gen = variables[0]
+land_size = variables[1]
+land = variables[2]
+
 while True: 
     land_display(land)
     print(f"Generation {gen}")
-    updated_land = check_land(land)
+    updated_land = check_land(land, land_size)
     land = updated_land
     gen += 1
     input()
